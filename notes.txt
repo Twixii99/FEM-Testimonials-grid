@@ -1,0 +1,4 @@
+Horizontal spacing = 30px
+Vertical spacing = 25px
+
+default card width = 255px
