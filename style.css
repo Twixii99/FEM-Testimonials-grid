@@ -72,8 +72,6 @@ main {
 }
 
 .testimonial-grid {
-  max-width: 100%;
-
   display: grid;
   grid-auto-columns: 1fr;
   gap: var(--vertical-spacing) var(--horizontal-spacing);
